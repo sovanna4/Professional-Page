@@ -1,5 +1,5 @@
 # Professional-Page
-Hi, my name is Sovanna! Here I wrap up what I have learned in my machine learning course as well as list some of the technical and soft skills I gained. If you would like to learn more about my professional experience feel free to check out and connect with me on LinkedIn! www.linkedin.com/in/sovanna-ramirez-457b74205
+Hi, my name is Sovanna! Here I wrap up what I have learned in my machine learning course as well as list some of the technical and soft skills I gained. If you would like to learn more about my professional experience feel free to connect with me on LinkedIn! www.linkedin.com/in/sovanna-ramirez-457b74205
 
 # Machine Learning Portfolio
 In this portfolio found [here](https://github.com/sovanna4/Machine-Learning-Portfolio) I was able to get some hands-on experience with machine learning through various projects using **R, Python, and C++**. Moreover, some of the technical skills I gained through this course include:
